@@ -19,7 +19,7 @@
             "HTML",
             "CSS"
         ],
-        "Data Bases": [
+        "Databases": [
             "PostgreSQL",
             "MySql",
             "MariaDB",
