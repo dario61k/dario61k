@@ -38,14 +38,12 @@
 
 <style>
     header {
-        position: sticky;
         top: 0;
         height: 5rem;
         display: flex;
         justify-content: center;
         align-items: center;
         padding: 0 15px;
-        background-color: rgb(32, 32, 32);
     }
 
     div {
